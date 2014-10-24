@@ -1,8 +1,5 @@
-# @author Xu Yan
-# @date Sep.28th,2014
-# The python script is used after running shell script "gradingScript"
-# It'll run executables with testing files and write output to result.txt
-# Usage: python running.py
+# @author Congcong Chen
+# @date Oct.24th,2014
 
 import os
 import sys
