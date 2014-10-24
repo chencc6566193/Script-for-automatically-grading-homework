@@ -1,7 +1,5 @@
-# @author Xu Yan
-# @date Sep.28th,2014
-# The python script is used to rename the zip files of the student's submission
-# Usage: python removesp.py
+# @author Congcong Chen
+# @date Oct.24th,2014
 
 import os
 import sys
