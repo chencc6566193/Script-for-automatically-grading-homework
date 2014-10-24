@@ -1,8 +1,6 @@
 # !/bin/sh
-# Grading Shell Script for ENGR112 HWs
-# Functionalities: unzip submissions in UIN folders and compile cpp files in the folders
-# @author XuYan
-# @date Sep.28th,2014
+# @author CongcongChen
+# @date Oct.24th,2014
 
 function unzip_compile() {
   SOURCEFILES=("hw4pr1.cpp" "hw4pr2.cpp" "hw4pr3.cpp" "hw4pr4.cpp")
